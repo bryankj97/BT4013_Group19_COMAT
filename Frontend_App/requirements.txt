@@ -1,0 +1,14 @@
+pyparsing==2.4.7
+scikit-learn==1.0.1
+numpy==1.19.5
+pandas==1.1.0
+streamlit==1.1.0
+scipy==1.7.1
+matplotlib==3.2.2
+seaborn==0.10.1
+session_info==1.0.0
+holoviews==1.13.4 
+bokeh==2.0.2
+panel==0.9.5
+xlrd==2.0.1
+openpyxl==3.0.9
